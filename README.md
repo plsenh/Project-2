@@ -34,16 +34,16 @@ password: test
 
 ## Built With
 
-- [Bootstrap](https://getbootstrap.com/) - Front-end framework for developing websites and web applications.
+- [Bootstrap](https://getbootstrap.com/) - Front-end component library for developing with HTML, CSS, and JS.
 - [Handlebars.js](https://handlebarsjs.com) - Templating engine based on the Mustache template language.
 - [Heroku](https://heroku.com) - cloud platform as a service supporting several programming languages.
 - [JawsDB MySQL](https://elements.heroku.com/addons/jawsdb) - Add-on for providing a fully functional MySQL Database server for use with Heroku application.
-- [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - High-level programming language.
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - High-level programming language.
 - [MAMP](https://www.mamp.info/en/) - Local server environment.
 - [MySQL](https://www.mysql.com/products/workbench/) - Visual tool for database architects.
 - [Node.js](https://nodejs.org/en/) - Open-source run-time environment that executes JS code outside of a browser.
 - [npm](https://www.npmjs.com/) - package manager for the JavaScript programming language.
-- [VSC](https://code.visualstudio.com/) - Visual Studio Code is a source code editor developed by Microsoft.
+- [Visual Studio Code](https://code.visualstudio.com/) - source code editor developed by Microsoft
 
 #### npm Packages Used:
 
