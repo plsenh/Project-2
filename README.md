@@ -30,6 +30,7 @@ Sequelize was used to manage the user input to a MySQL server. During testing, t
 email address: test@test.com
 password: test
 ```
+---
 
 ## Built With
 
@@ -65,6 +66,8 @@ password: test
 - [eslint](https://www.npmjs.com/package/eslint) - a tool for identifying and reporting on patterns found in ECMAScript/JavaScript code.
 - [mocha](https://www.npmjs.com/package/mocha) - Simple, flexible, fun JavaScript test framework for Node.js & The browser.
 - [prettier](https://www.npmjs.com/package/prettier) - an opinionated code formatter.
+
+---
 
 ## Authors
 
