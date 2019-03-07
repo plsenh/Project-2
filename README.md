@@ -24,8 +24,10 @@ Sequelize was used to manage the user input to a MySQL server. During testing, t
 
 [Sign up](https://tamafitpls.herokuapp.com/signup) or [login](https://tamafitpls.herokuapp.com/login) using credentials below to try it out yourself!
 
-email address: 
+```
+email address: test@test.com
 password: test
+```
 
 ## Built With
 
