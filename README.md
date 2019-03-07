@@ -45,7 +45,7 @@ password: test
 - [npm](https://www.npmjs.com/) - package manager for the JavaScript programming language.
 - [Visual Studio Code](https://code.visualstudio.com/) - source code editor developed by Microsoft
 
-### npm packages used:
+#### npm packages used:
 
 - [animate.css](https://daneden.github.io/animate.css/) - Just-add-water CSS animations!
 - [bcrypt-nodejs](https://www.npmjs.com/package/bcrypt) - password hashing function designed by Niels Provos and David Mazières.
@@ -59,7 +59,7 @@ password: test
 - [passport-local](https://www.npmjs.com/package/passport-local) - Authenticate using a username and password in your Node.js applications.
 - [sequelize](https://www.npmjs.com/package/sequelize) - a promise-based Node.js ORM for Postgres, MySQL, SQLite and Microsoft SQL Server. It features solid transaction support, relations, read replication and more.
 
-### npm developer packages used:
+#### npm developer packages used:
 
 - [chai](https://www.npmjs.com/package/chai) - a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
 - [chai http](https://www.npmjs.com/package/chai-http) - HTTP integration testing with Chai assertions.
