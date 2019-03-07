@@ -6,21 +6,21 @@
 
 ---
 
-## About TamaFit:
+## Overview:
 
 TamaFit is a full stack web application that tracks a user's workout history and display an avatar of their choice. Users can view/edit their logs, update their avatars, and compare their exercise logs with other users' logs.
 
-## Why this app?
+## Why this app:
 
 TamaFit was written to address the problem of how a web-based fitness app could store user data in a relational database, display user data, allow the user to update their workouts and profiles, and display a ranking of users. TamaFit needed to be mobile-responsive as well.
 
 ![screenshot](public/images/tamaFit_screenshot.png)
 
-## Technical Solutions:
+## Technical Approach:
 
 Sequelize was used to manage the user input to a MySQL server. During testing, the database was hosted locally using MAMP, and it was pushed to Heroku for deployment, with JawsDB providing the SQL database. Bcrypt & passport provided authentication functionality. In addition, Handlebars was used for displaying the content onscreen, along with Bootstrap elements such as forms, buttons, and an image carousel. Media queries and Bootstrap classes were used for mobile responsiveness.
 
-## Demo
+## Demo:
 
 ![demo](public/images/demo.gif)
 
@@ -32,7 +32,7 @@ password: test
 ```
 ---
 
-## Built With
+## Built With:
 
 - [Bootstrap](https://getbootstrap.com/) - Front-end component library for developing with HTML, CSS, and JS.
 - [Handlebars.js](https://handlebarsjs.com) - Templating engine based on the Mustache template language.
@@ -45,7 +45,7 @@ password: test
 - [npm](https://www.npmjs.com/) - package manager for the JavaScript programming language.
 - [Visual Studio Code](https://code.visualstudio.com/) - source code editor developed by Microsoft
 
-#### npm Packages Used:
+### npm packages used:
 
 - [animate.css](https://daneden.github.io/animate.css/) - Just-add-water CSS animations!
 - [bcrypt-nodejs](https://www.npmjs.com/package/bcrypt) - password hashing function designed by Niels Provos and David Mazières.
@@ -59,7 +59,7 @@ password: test
 - [passport-local](https://www.npmjs.com/package/passport-local) - Authenticate using a username and password in your Node.js applications.
 - [sequelize](https://www.npmjs.com/package/sequelize) - a promise-based Node.js ORM for Postgres, MySQL, SQLite and Microsoft SQL Server. It features solid transaction support, relations, read replication and more.
 
-#### npm Developer Packages Used:
+### npm developer packages used:
 
 - [chai](https://www.npmjs.com/package/chai) - a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
 - [chai http](https://www.npmjs.com/package/chai-http) - HTTP integration testing with Chai assertions.
@@ -69,7 +69,7 @@ password: test
 
 ---
 
-## Authors
+## Authors:
 
 - **Dirk Kiesewetter** - [dirk-kiesewetter](https://github.com/dirk-kiesewetter)  (Front End Lead)
 - **Michael Perilli** - [OSCOdin](https://github.com/OSCOdin) (Back End)
