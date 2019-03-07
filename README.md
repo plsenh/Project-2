@@ -1,6 +1,6 @@
 # TamaFit
 
-## [Go to deployed app](https://tamafitpls.herokuapp.com/)
+## Link to deployed app: [https://tamafitpls.herokuapp.com/](https://tamafitpls.herokuapp.com/)
 
 ![front page](public/images/tamafit.PNG)
 
