@@ -4,8 +4,6 @@
 
 ![front page](public/images/tamafit.PNG)
 
-![screenshot](public/images/tamaFit_screenshot.png)
-
 ---
 
 ## About TamaFit:
@@ -15,6 +13,8 @@ TamaFit is a full stack web application that tracks a user's workout history and
 ## Why this app?
 
 TamaFit was written to address the problem of how a web-based fitness app could store user data in a relational database, display user data, allow the user to update their workouts and profiles, and display a ranking of users. TamaFit needed to be mobile-responsive as well.
+
+![screenshot](public/images/tamaFit_screenshot.png)
 
 ## Technical Solutions:
 
@@ -58,7 +58,7 @@ password: test
 - [passport-local](https://www.npmjs.com/package/passport-local) - Authenticate using a username and password in your Node.js applications.
 - [sequelize](https://www.npmjs.com/package/sequelize) - a promise-based Node.js ORM for Postgres, MySQL, SQLite and Microsoft SQL Server. It features solid transaction support, relations, read replication and more.
 
-#### npm Developer Packages Used: -
+#### npm Developer Packages Used:
 
 - [chai](https://www.npmjs.com/package/chai) - a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
 - [chai http](https://www.npmjs.com/package/chai-http) - HTTP integration testing with Chai assertions.
