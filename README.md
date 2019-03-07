@@ -70,3 +70,5 @@ password: test
 - **Michael Perilli** - [OSCOdin](https://github.com/OSCOdin) (Back End)
 - **Pauline Senh** - [plsenh](https://github.com/plsenh) (Back End Lead)
 - **Timothy Charette** - [charettetimothy](https://github.com/charettetimothy) (Front End)
+
+![front page](public/images/tamafit.png)
