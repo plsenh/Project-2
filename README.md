@@ -55,7 +55,7 @@ Sequelize was used to manage the user input to a MySQL server. During testing, t
 
 ## Authors
 
-- **Dirk Kiesewetter** - [dirk-kiesewetter](https://github.com/dirk-kiesewetter)
-- **Michael Perilli** - [OSCOdin](https://github.com/OSCOdin)
-- **Pauline Senh** - [plsenh](https://github.com/plsenh)
-- **Timothy Charette** - [charettetimothy](https://github.com/charettetimothy)
+- **Dirk Kiesewetter** - [dirk-kiesewetter](https://github.com/dirk-kiesewetter)  (Front End)
+- **Michael Perilli** - [OSCOdin](https://github.com/OSCOdin) (Back End)
+- **Pauline Senh** - [plsenh](https://github.com/plsenh) (Back End)
+- **Timothy Charette** - [charettetimothy](https://github.com/charettetimothy) (Front End)
