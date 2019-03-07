@@ -71,4 +71,4 @@ password: test
 - **Pauline Senh** - [plsenh](https://github.com/plsenh) (Back End Lead)
 - **Timothy Charette** - [charettetimothy](https://github.com/charettetimothy) (Front End)
 
-![front page](public/images/tamafit.png)
+![front page](public/images/tamafit.PNG)
