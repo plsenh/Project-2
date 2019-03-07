@@ -2,6 +2,10 @@
 
 ## [Go to deployed app](https://tamafitpls.herokuapp.com/)
 
+![screenshot](public/images/tamaFit_screenshot.png)
+
+---
+
 ## About TamaFit:
 
 TamaFit is a full stack web application that tracks a user's workout history and display an avatar of their choice. Users can view/edit their logs, update their avatars, and compare their exercise logs with other users' logs.
@@ -16,7 +20,7 @@ Sequelize was used to manage the user input to a MySQL server. During testing, t
 
 ## Demo
 
-![TamaFit](public/images/demo.gif)
+![demo](public/images/demo.gif)
 
 ## Built With
 
